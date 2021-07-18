@@ -1,0 +1,3 @@
+- 👋 Hi, I’m lijiaxin
+- 🌱 I’m currently learning web
+- 📫 How to reach me ...
